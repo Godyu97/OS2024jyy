@@ -1,0 +1,13 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/root/projects/OS2024jyy/logisim",
+            "binaryPath": "/root/projects/OS2024jyy/logisim/logisim",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "unistd.h": "c",
+        "stdbool.h": "c"
+    }
+}
